@@ -1,0 +1,22 @@
+# ==========================================================
+# EXEMPLO DE CONFIGURAÇÃO - PLATAFORMA DE GESTÃO DE BARBEARIAS
+# ==========================================================
+# Copie este arquivo para .Renviron e preencha com seus dados.
+# Nunca publique o arquivo .Renviron real.
+
+# Aplicação
+APP_URL=https://seu-dominio.example
+APP_PORT=3728
+
+# SQL Server
+BARB_DB_DRIVER=ODBC Driver 18 for SQL Server
+BARB_DB_SERVER=localhost
+BARB_DB_DATABASE=Barbearia
+BARB_DB_UID=
+BARB_DB_PASSWORD=
+BARB_DB_TRUSTED=yes
+
+# E-mail / SMTP
+SMTP_FROM=seu_email@example.com
+SMTP_USER=seu_email@example.com
+SMTP_PASSWORD=sua_senha_de_aplicativo
