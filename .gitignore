@@ -23,3 +23,5 @@
 # Sistema operacional
 .DS_Store
 Thumbs.db
+app.R
+.gitignore.local.backup
