@@ -255,3 +255,49 @@ Projeto desenvolvido para aplicação prática de desenvolvimento de software, b
 ### Principais competências demonstradas
 
 `R` • `Shiny` • `SQL` • `SQL Server` • `DBI` • `ODBC` • `Data Analysis` • `Dashboards` • `Git` • `GitHub`
+
+---
+
+## 📸 Demonstração da plataforma
+
+Abaixo estão algumas das principais telas da plataforma em funcionamento.
+
+### 📊 Dashboard gerencial
+
+Visão consolidada dos principais indicadores da operação, permitindo acompanhar resultados e informações relevantes para a gestão da barbearia.
+
+![Dashboard da plataforma](screenshots/DeashBord.png)
+
+![Dashboard - indicadores gerenciais](screenshots/DeashBord%202.png)
+
+### 📅 Gestão da agenda
+
+Agenda operacional utilizada para gerenciamento dos atendimentos, profissionais, horários e disponibilidade.
+
+![Agenda](screenshots/Agenda.png)
+
+![Agenda - visualização 2](screenshots/Agenda%202.png)
+
+![Agenda - visualização 3](screenshots/Agenda%203.png)
+
+![Agenda - visualização 4](screenshots/Agenda%204.png)
+
+### 👥 Gestão de clientes
+
+Área destinada ao gerenciamento das informações dos clientes cadastrados na plataforma.
+
+![Gestão de clientes](screenshots/Clientes.png)
+
+### 💰 Gestão financeira
+
+Painel financeiro para acompanhamento dos resultados da barbearia, receitas, despesas e indicadores gerenciais.
+
+![Gestão financeira](screenshots/Financeiro.png)
+
+![Gestão financeira - indicadores](screenshots/Financeiro%202.png)
+
+### ✂️ Gestão de serviços
+
+Área utilizada para cadastro e gerenciamento dos serviços oferecidos pela barbearia, incluindo preços, duração e situação do serviço.
+
+![Gestão de serviços](screenshots/Gest%C3%A3o%20de%20Servi%C3%A7os.png)
