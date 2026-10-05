@@ -1,0 +1,25 @@
+# Credenciais e variáveis de ambiente
+.Renviron
+.env
+.env.*
+
+# Backups de banco de dados
+*.bak
+*.bak.*
+
+# Arquivos temporários do R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
